@@ -20,7 +20,7 @@ I build reproducible workflows, researcher-facing platforms, and containerised s
 
 Open OnDemand app for protein design workflows, integrating form-driven submission with underlying Nextflow pipelines and institution-specific runtime configuration.
 
-### Regular contributor: nf-core/proteinfold
+### Maintainer: nf-core/proteinfold
 [`nf-core/proteinfold`](https://github.com/nf-core/proteinfold)
 
 Contributor to the community-maintained protein structure prediction pipeline. Public contributions include support for additional prediction modes, image and dependency updates, workflow fixes, and HPC/runtime improvements.
