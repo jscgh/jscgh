@@ -1,5 +1,3 @@
-# Joshua Storm Caley
-
 Research software and platform engineer working in scientific computing, HPC, ML workflows, and structural biology infrastructure at UNSW.
 
 I build reproducible workflows, researcher-facing platforms, and containerised software environments for biomolecular modelling and protein structure prediction.
